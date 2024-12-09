@@ -11,4 +11,10 @@ df.info()
 df.describe()
 df.head()
 df.nunique()
+df.dtypes()
+df.duplicated()
+df.drop_duplicates()
+
+
+
 
